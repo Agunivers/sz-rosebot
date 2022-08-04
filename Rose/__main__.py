@@ -249,7 +249,7 @@ async def startcq(client,CallbackQuery, _):
     await CallbackQuery.message.edit(
             text=f"""
 Hey there {CallbackQuery.from_user.mention}, 
-My name is Rose an  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups!
+My name is don an  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups!
 """,disable_web_page_preview=True,reply_markup=home_keyboard_pm)
 
 
